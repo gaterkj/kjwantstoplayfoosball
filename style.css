@@ -10,25 +10,32 @@
 table {
 	width: 100%;
 }
-th {
-	width: 20%;
-}
 
 body {
-	background-color: whitesmoke;
+	background-image: url(https://www.nasa.gov/wp-content/uploads/2024/11/0302398orig.jpg);
+	color: white;
 }
 
-h1, h3, p {
-	text-align: center;
-
-
-}
-
-#top-border {
-	background-color: rgb(202, 170, 199);
-	color: rgb(0, 0, 0);
+main {
+	background-color: black;
+	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+h1, h2, h3, h4, p {
 	text-align: center;
+}
+
+.header-about {
+	background-color: rgb(202, 170, 199);
+	color: rgb(0, 0, 0);
+	margin: auto;
 	width: 30%;
+}
+
+.header-small {
+	background-color: rgb(202, 170, 199);
+	color: rgb(0, 0, 0);
+	width: 15%;
 }
