@@ -11,9 +11,14 @@ table {
 	width: 100%;
 }
 
+html {
+	cursor: url("photos/testcursor_nyJ_icon.ico"), default;
+}
+
 body {
 	background-image: url(https://www.nasa.gov/wp-content/uploads/2024/11/0302398orig.jpg);
 	color: white;
+	cursor: url("photos/testcursor_nyJ_icon.ico"), default;
 }
 
 main {
