@@ -1,5 +1,34 @@
+.top-border-h4 {
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+.top-border-p {
+	margin-top: 0%;
+	
+}
+
+table {
+	width: 100%;
+}
+th {
+	width: 20%;
+}
+
+body {
+	background-color: whitesmoke;
+}
+
 h1, h3, p {
 	text-align: center;
 
 
+}
+
+#top-border {
+	background-color: rgb(202, 170, 199);
+	color: rgb(0, 0, 0);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 30%;
 }
